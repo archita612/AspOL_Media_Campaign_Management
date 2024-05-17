@@ -33,7 +33,10 @@ After creating the ERD and relational schema, we imported the cleaned CSV files 
 
 ## ERD Diagram
 
-![RDS](https://github.com/archita612/AspOL_Media_Campaign_Management/blob/main/ERD%20Final.jpeg)
+![ERD](https://github.com/archita612/AspOL_Media_Campaign_Management/blob/main/ERD%20Final.jpeg)
+
+## Relational Schema
+![RDS](https://github.com/archita612/AspOL_Media_Campaign_Management/blob/main/Relational%20Schema%20Final.jpeg)
 
 ## Description of ERD and Relational Schema
 
